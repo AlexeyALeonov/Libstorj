@@ -153,10 +153,10 @@ directory and execute the following command:
 10.  Libstorj should now print out the following success line indicating that the settings are successfully saved to our computer (Figure 4.1):
 
 	> *"Successfully stored bridge username, password, and encryption key to C:\\Users\\USER/.storj/api.storj.io.json"*
-	
-	![](media/32c2f978cf806f61cfbaa19d95e601ce.png)
 
-	Figure 4.1. Registering a new user with Libstorj.
+![](media/32c2f978cf806f61cfbaa19d95e601ce.png)
+
+Figure 4.1. Registering a new user with Libstorj.
 
 That’s it, you are now registered to the Storj-Bridge and can begin uploading
 and downloading files, you can skip chapter 4.2.
@@ -266,7 +266,7 @@ go as follows:
 
 5.  Once done save the `"api.storj.io.json"` file containing the keys of your second bridge 	account to the folder in step two. Note that it is advisable to temporary rename the 	files or place them in different sub-directories (e.g. `"main bridge account"` and `"secondary bridge account"`). Remember to rename the file back to the original name 	when they are placed back to the Libstorj directory.
 
-#6. Adding a bucket, uploading and downloading a file.
+# 6. Adding a bucket, uploading and downloading a file.
 
 In the next few sub-chapters we will create a bucket, upload a file to it and
 finally download the file back to our computer.
