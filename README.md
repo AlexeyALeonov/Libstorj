@@ -1,7 +1,7 @@
 # *Asynchronous multi-platform C library and CLI for encrypted file transfer on the Storj network*
 
 -----------------
-## *The Storj Team*
+<!--## *The Storj Team* -->
 
 
 # 1. Introduction
